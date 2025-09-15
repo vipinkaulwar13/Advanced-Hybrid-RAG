@@ -1,0 +1,14 @@
+langchain
+langchain-groq
+langchain-huggingface
+transformers
+langchain-ollama
+langchain-community
+ipykernel
+python-dotenv
+unstructured
+unstructured[pdf]
+chromadb
+sentence-transformers
+rank_bm25
+streamlit
